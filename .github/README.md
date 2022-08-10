@@ -29,9 +29,9 @@ Iniciando a carreira... 👨‍💻
     
 </div>
   <br>
-  <a href="https://www.instagram.com/moshmatohead/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/xaviser_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!-- <a href="https://www.linkedin.com/in/moshmatohead/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
-  <a href="mailto:willian.s.praciano@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="mailto:xaviergabriel856@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <br/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=moshmatohead&color=yellow" alt="Profile views" /> </p>
 <!--
