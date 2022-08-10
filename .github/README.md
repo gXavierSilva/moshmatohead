@@ -2,7 +2,7 @@
 <div align="center"> 
 <h1>Gabriel Xavier da Silva</h1>
 
-Iniciando a carreira... 👨‍💻
+👨‍💻 | Building my career...
 </div>
  
 <!-- <div align="center"> 
