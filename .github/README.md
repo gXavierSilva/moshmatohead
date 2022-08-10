@@ -5,13 +5,13 @@
 👨‍💻 | Building my career...
 </div>
  
-<!-- <div align="center"> 
+<div align="center"> 
   <a href="https://github.com/moshmatohead">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=moshmatohead&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <span></span>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshmatohead&layout=compact&langs_count=6&theme=dark" />
 </div>
- <br> -->
+ <br>
 
 <div align="center"> 
   <div style="display: inline_block"><br>
